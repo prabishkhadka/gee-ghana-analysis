@@ -60,4 +60,10 @@ This code is provided for educational purposes.
 
 I presented this work at AAG in 2023. You can view the presentation here: (https://github.com/prabishkhadka/gee-ghana-analysis/blob/main/AAG_Final.pdf)
 
+## Google Earth Engine Code
+
+The Google Earth Engine script used for this project can be accessed directly via the following link:
+
+- [View GEE Code](https://code.earthengine.google.com/48832d3c136b84b0c195d5aacaf4af85)
+
 CONTACT: For questions or feedback, please contact: prabishkhadka@gmail.com 
