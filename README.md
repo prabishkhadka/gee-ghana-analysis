@@ -40,20 +40,24 @@ The shapefiles used in this project are from data.world (Ghana - Subnational Adm
    ogr2ogr -f "GeoJSON" data/ghana_boundary.geojson data/ghana_boundary.shp
 
 
-HOW TO RUN
+**HOW TO RUN**
 
 1.	Open Google Earth Engine Code Editor: GEE Code Editor
 2.	Copy and paste the content of scripts/ghana_analysis.js into the editor.
 3.	Ensure that the shapefiles are correctly loaded and referenced in the script.
 4.	Run the script to perform the analysis.
 
-DEPENDENCIES
+**DEPENDENCIES**
 
 1.	Google Earth Engine Account: Required to run the GEE script.
 2.	Google Earth Engine API: Installed and authenticated.
 
-LICENSE
+**LICENSE**
 
 This code is provided for educational purposes.
+
+## Conference Presentation
+
+I presented this work at AAG in 2023. You can view the presentation here: [Link Text]((https://github.com/prabishkhadka/gee-ghana-analysis/blob/main/AAG_Final.pdf)
 
 CONTACT: For questions or feedback, please contact: prabishkhadka@gmail.com 
