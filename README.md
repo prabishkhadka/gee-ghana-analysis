@@ -58,6 +58,6 @@ This code is provided for educational purposes.
 
 ## Conference Presentation
 
-I presented this work at AAG in 2023. You can view the presentation here: [Link Text]((https://github.com/prabishkhadka/gee-ghana-analysis/blob/main/AAG_Final.pdf)
+I presented this work at AAG in 2023. You can view the presentation here: (https://github.com/prabishkhadka/gee-ghana-analysis/blob/main/AAG_Final.pdf)
 
 CONTACT: For questions or feedback, please contact: prabishkhadka@gmail.com 
