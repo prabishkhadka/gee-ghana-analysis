@@ -58,7 +58,7 @@ This code is provided for educational purposes.
 
 ## Conference Presentation
 
-I presented this work at AAG in 2023. You can view the presentation here: (https://github.com/prabishkhadka/gee-ghana-analysis/blob/main/AAG_Final.pdf)
+I presented this work at AAG in 2023. You can view the presentation here: [Poster](https://github.com/prabishkhadka/gee-ghana-analysis/blob/main/AAG_Final.pdf)
 
 ## Google Earth Engine Code
 
